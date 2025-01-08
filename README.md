@@ -1,6 +1,6 @@
 # Overview
 
-This repository contains the datasets, grading rubrics, and code used in the study **"Picking the Right Tool for the Job: A Performance Comparison of Language Models for Open-Response Assessment"**.  
+This repository contains the datasets, grading rubrics, and code used in the study **"Comparing Few-Shot Prompting of GPT-4 LLMs with BERT Classifiers for Open-Response Assessment in Tutor Equity Training"**.  
 The study evaluates the performance of various language models, including BERT and GPT-based models, in assessing open-ended tutor responses within scenario-based advocacy training lessons.
 
 ## **Repository Contents**
